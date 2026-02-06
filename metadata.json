@@ -1,0 +1,8 @@
+{
+  "name": "SalesAI CRM",
+  "description": "A lightweight, AI-assisted CRM for freelancers and small teams to track leads, manage deals via Kanban, and generate AI-powered outreach.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
